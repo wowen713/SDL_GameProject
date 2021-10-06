@@ -1,0 +1,10 @@
+Will Owen
+Assignment 3
+
+The inputs for this assignment are the right arrow key to move right,
+and the space key to jump. The player will return to idle when nothing is
+being pressed. The player will run into a wall when the level is over
+and will stop moving forward but will still be trying to run. All images used
+are in the Images File and are from various free sources on google. There are
+two background elements, trees and mountains that both loop. The tiles are
+read in through the tiles.map file.
